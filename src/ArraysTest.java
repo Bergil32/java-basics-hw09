@@ -26,12 +26,12 @@ public class ArraysTest {
                 {
                         new String[]{"ZXC", "MX", "RT", "MX", "0", "MOON", "SUN"},
                         new String[]{"RT", "MX", "1", "x"},
-                        new String[]{"MX", "RT"}
+                        new String[]{"RT", "MX"}
                 },
                 {
                         new String[]{"üø", "∫ø", "sun", "w1F", "ZERO", "dummy"},
                         new String[]{"NZXT", "∫ø", "üø", "down", "low"},
-                        new String[]{"üø", "∫ø"}
+                        new String[]{"∫ø", "üø"}
                 }
         };
     }
